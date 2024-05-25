@@ -1,0 +1,10 @@
+K:\SoftwareData\Microsoft\VisualStudio\source\repos\VaccumCleanerAgent\VaccumCleanerAgent\obj\Debug\VaccumCleanerAgent.csproj.AssemblyReference.cache
+K:\SoftwareData\Microsoft\VisualStudio\source\repos\VaccumCleanerAgent\VaccumCleanerAgent\obj\Debug\VaccumCleanerAgent.Form1.resources
+K:\SoftwareData\Microsoft\VisualStudio\source\repos\VaccumCleanerAgent\VaccumCleanerAgent\obj\Debug\VaccumCleanerAgent.Properties.Resources.resources
+K:\SoftwareData\Microsoft\VisualStudio\source\repos\VaccumCleanerAgent\VaccumCleanerAgent\obj\Debug\VaccumCleanerAgent.csproj.GenerateResource.cache
+K:\SoftwareData\Microsoft\VisualStudio\source\repos\VaccumCleanerAgent\VaccumCleanerAgent\obj\Debug\VaccumCleanerAgent.csproj.CoreCompileInputs.cache
+K:\SoftwareData\Microsoft\VisualStudio\source\repos\VaccumCleanerAgent\VaccumCleanerAgent\bin\Debug\VaccumCleanerAgent.exe.config
+K:\SoftwareData\Microsoft\VisualStudio\source\repos\VaccumCleanerAgent\VaccumCleanerAgent\bin\Debug\VaccumCleanerAgent.exe
+K:\SoftwareData\Microsoft\VisualStudio\source\repos\VaccumCleanerAgent\VaccumCleanerAgent\bin\Debug\VaccumCleanerAgent.pdb
+K:\SoftwareData\Microsoft\VisualStudio\source\repos\VaccumCleanerAgent\VaccumCleanerAgent\obj\Debug\VaccumCleanerAgent.exe
+K:\SoftwareData\Microsoft\VisualStudio\source\repos\VaccumCleanerAgent\VaccumCleanerAgent\obj\Debug\VaccumCleanerAgent.pdb
